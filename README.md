@@ -12,3 +12,5 @@ If the user chooses to use only 1 of the 3 filters, say `Date` (for example `1/1
 However, if the user chooses to utilize 2 of the 3 criterion, then the table will display all of 'both' the filters, say `City` and `Shape` (for example `Willow` and `Sphere`). At this point, there is no filter on the `Date`.
 
 The only time the user will see `No results found. Try another filter!` is when the user inputs a search which does not exist in the dataset. For example, if user entered `Round` instead of `Circle` in `Shape` filter, there will not be any matches as `Round` shape is not part of this dataset.
+
+https://kreativity07.github.io/UFO_Sightings_JS/
